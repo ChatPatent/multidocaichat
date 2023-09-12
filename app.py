@@ -15,7 +15,7 @@ import os
 from dotenv import load_dotenv
 load_dotenv()
 
-st.set_page_config(page_title="Open AI Doc-Chat Assistant", layout="wide")
+st.set_page_config(page_title="Git Account - ChatPatent -Open AI Doc-Chat Assistant", layout="wide")
 st.subheader("Git Account - ChatPatent - Open AI Doc-Chat Assistant: Life Enhancing with AI!")
 
 css_file = "main.css"
